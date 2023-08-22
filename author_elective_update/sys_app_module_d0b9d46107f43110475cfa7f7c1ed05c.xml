@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIT">bdeee38407b43110475cfa7f7c1ed0fa</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>CONTENT_PAGE</link_type>
+        <map_page display_value="North East locations">25ca990c0a0a0bb300f63bf73d155d5b</map_page>
+        <mobile_title>Go to Facebook</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://www.facebook.com</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 08:48:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0b9d46107f43110475cfa7f7c1ed05c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Go to Facebook</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_d0b9d46107f43110475cfa7f7c1ed05c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 09:07:01</sys_updated_on>
+        <timeline_page/>
+        <title>Go to Facebook</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9b0b12f4dbbf9b443353f22ebf961922</instance_id>
+        <instance_name>dev69157</instance_name>
+        <name>sys_app_module_d0b9d46107f43110475cfa7f7c1ed05c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIT">bdeee38407b43110475cfa7f7c1ed0fa</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>CONTENT_PAGE</link_type><map_page display_value="North East locations">25ca990c0a0a0bb300f63bf73d155d5b</map_page><mobile_title>Go to Facebook</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>400</order><override_menu_roles>false</override_menu_roles><query>https://www.facebook.com</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 08:48:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d0b9d46107f43110475cfa7f7c1ed05c</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Go to Facebook</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_d0b9d46107f43110475cfa7f7c1ed05c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 09:07:01</sys_updated_on><timeline_page/><title>Go to Facebook</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-894133911</payload_hash>
+        <record_name>Go to Facebook</record_name>
+        <reverted_from/>
+        <source>d895a38407743110475cfa7f7c1ed01c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 09:07:01</sys_created_on>
+        <sys_id>015e54a507f43110475cfa7f7c1ed06f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a1758f9880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 09:07:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c55e54a54bf43110058a982c3aaf2b6e</update_guid>
+        <update_guid_history>c55e54a54bf43110058a982c3aaf2b6e:-894133911,78fd10a55cf431109bd5261bf4d16e82:782192819,383dd8a154f431109d924cbb7cd36aca:1936407925,277ad8a126f431104338069136ebddc0:-2101966024,4c4adc6133f431109755c11f217304d3:936940426,e52a14ada3b43110a02b7b4802f58168:1569817207</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Go to Facebook">c17e18a507f43110475cfa7f7c1ed00f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 09:07:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0f34e9d1cd7f488199dcd8e11e25d529</sys_id>
+        <sys_metadata>d0b9d46107f43110475cfa7f7c1ed05c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go to Facebook</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_d0b9d46107f43110475cfa7f7c1ed05c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d0b9d46107f43110475cfa7f7c1ed05c">015e54a507f43110475cfa7f7c1ed06f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 09:07:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
